@@ -1,1 +1,1 @@
-# Making-Anagrams-algo
+# Making-Anagrams-algo The code counts the frequency of each character in both strings and finds the difference between them. The total number of unmatched characters represents how many deletions are needed to make the two strings anagrams.
